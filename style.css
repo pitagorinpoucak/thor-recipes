@@ -3,3 +3,17 @@
     background-color: #b2b09b;
     color:#ef3054;    
 }
+
+button {
+    position: 50% 50%;
+    text-align: center;
+}
+
+button :hover {
+    background-color: blue;
+    color: white;
+}
+
+ul {
+    text-align: center;
+}
