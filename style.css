@@ -5,15 +5,50 @@
 }
 
 button {
-    position: 50% 50%;
+    
+    text-align: center;
+}
+
+.buttons {
     text-align: center;
 }
 
 button :hover {
-    background-color: blue;
-    color: white;
+    background-color: burlywood;
+    color: black;
 }
 
-ul {
+.title-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+.hyperlink {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+ul.recipe-list {
     text-align: center;
+    list-style-type: none;
+}
+
+.recipe-list ul {
+    text-align: center;
+    list-style-type: none;
+
+}
+
+
+.description {
+    text-align: center;
+    background-color: #b2b09b;
+}
+
+.food {
+    display: inline;
 }
