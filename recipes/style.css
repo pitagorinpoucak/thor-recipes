@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    background-color:bisque;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+
+}
+
+p, h3, h4, ul, ol {
+    margin-left: 25%;
+}
+
+button :hover {
+    background-color: bisque;
+    color: black;
+}
